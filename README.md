@@ -1,0 +1,2 @@
+# EtkinlikKaydi
+Losev etkinlik kaydi
