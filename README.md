@@ -1,2 +1,2 @@
 # EtkinlikKaydi
-Losev etkinlik kaydi
+Etkinlik kaydi
